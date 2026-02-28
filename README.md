@@ -20,7 +20,7 @@ Acesse o IP exibido no display (ex.: `http://192.168.1.x/`) para:
 - Marcar os **dias da semana** em que o alarme deve tocar
 - Listar e **excluir** alarmes já configurados
 
-![Interface web da Sirene Automática](../web.png)
+![Interface web da Sirene Automática](web.png "Interface")
 
 ## Hardware
 
